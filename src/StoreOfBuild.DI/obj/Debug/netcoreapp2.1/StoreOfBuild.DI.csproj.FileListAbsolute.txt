@@ -1,0 +1,16 @@
+C:\Cursos\NetCore\Modulo7\src\StoreOfBuild.DI\bin\Debug\netcoreapp2.1\StoreOfBuild.DI.deps.json
+C:\Cursos\NetCore\Modulo7\src\StoreOfBuild.DI\bin\Debug\netcoreapp2.1\StoreOfBuild.DI.runtimeconfig.json
+C:\Cursos\NetCore\Modulo7\src\StoreOfBuild.DI\bin\Debug\netcoreapp2.1\StoreOfBuild.DI.runtimeconfig.dev.json
+C:\Cursos\NetCore\Modulo7\src\StoreOfBuild.DI\bin\Debug\netcoreapp2.1\StoreOfBuild.DI.dll
+C:\Cursos\NetCore\Modulo7\src\StoreOfBuild.DI\bin\Debug\netcoreapp2.1\StoreOfBuild.DI.pdb
+C:\Cursos\NetCore\Modulo7\src\StoreOfBuild.DI\bin\Debug\netcoreapp2.1\StoreOfBuild.Data.dll
+C:\Cursos\NetCore\Modulo7\src\StoreOfBuild.DI\bin\Debug\netcoreapp2.1\StoreOfBuild.Domain.dll
+C:\Cursos\NetCore\Modulo7\src\StoreOfBuild.DI\bin\Debug\netcoreapp2.1\StoreOfBuild.Data.pdb
+C:\Cursos\NetCore\Modulo7\src\StoreOfBuild.DI\bin\Debug\netcoreapp2.1\StoreOfBuild.Domain.pdb
+C:\Cursos\NetCore\Modulo7\src\StoreOfBuild.DI\obj\Debug\netcoreapp2.1\StoreOfBuild.DI.csprojAssemblyReference.cache
+C:\Cursos\NetCore\Modulo7\src\StoreOfBuild.DI\obj\Debug\netcoreapp2.1\StoreOfBuild.DI.csproj.CoreCompileInputs.cache
+C:\Cursos\NetCore\Modulo7\src\StoreOfBuild.DI\obj\Debug\netcoreapp2.1\StoreOfBuild.DI.AssemblyInfoInputs.cache
+C:\Cursos\NetCore\Modulo7\src\StoreOfBuild.DI\obj\Debug\netcoreapp2.1\StoreOfBuild.DI.AssemblyInfo.cs
+C:\Cursos\NetCore\Modulo7\src\StoreOfBuild.DI\obj\Debug\netcoreapp2.1\StoreOfBuild.DI.csproj.CopyComplete
+C:\Cursos\NetCore\Modulo7\src\StoreOfBuild.DI\obj\Debug\netcoreapp2.1\StoreOfBuild.DI.dll
+C:\Cursos\NetCore\Modulo7\src\StoreOfBuild.DI\obj\Debug\netcoreapp2.1\StoreOfBuild.DI.pdb
