@@ -42,3 +42,6 @@ C:\Cursos\NetCore\Modulo7\src\StoreOfBuild.Web\obj\Debug\netcoreapp2.1\Razor\Vie
 C:\Cursos\NetCore\Modulo7\src\StoreOfBuild.Web\obj\Debug\netcoreapp2.1\Razor\Views\Product\CreateOrEdit.g.cshtml.cs
 C:\Cursos\NetCore\Modulo7\src\StoreOfBuild.Web\obj\Debug\netcoreapp2.1\Razor\Views\Sale\Create.g.cshtml.cs
 C:\Cursos\NetCore\Modulo7\src\StoreOfBuild.Web\obj\Debug\netcoreapp2.1\Razor\Views\Account\Login.g.cshtml.cs
+C:\Cursos\NetCore\Modulo7\src\StoreOfBuild.Web\obj\Debug\netcoreapp2.1\Razor\Views\User\Index.g.cshtml.cs
+C:\Cursos\NetCore\Modulo7\src\StoreOfBuild.Web\obj\Debug\netcoreapp2.1\Razor\Views\User\Create.g.cshtml.cs
+C:\Cursos\NetCore\Modulo7\src\StoreOfBuild.Web\obj\Debug\netcoreapp2.1\Razor\Views\Account\AccessDenied.g.cshtml.cs

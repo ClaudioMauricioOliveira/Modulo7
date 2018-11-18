@@ -34,6 +34,7 @@ namespace StoreOfBuild.DI
             services.AddScoped(typeof(IRepository<Product>), typeof(ProductRepository));
             services.AddScoped(typeof(IRepository<>), typeof(Repository<>));
             services.AddScoped(typeof(IAuthentication), typeof(Authentication));
+            services.AddScoped(typeof(IManager), typeof(Manager));
             services.AddScoped(typeof(CategoryStorer));
             services.AddScoped(typeof(ProductStorer));
             services.AddScoped(typeof(SaleFactory));

@@ -8,7 +8,7 @@ using StoreOfBuild.Web.ViewsModels;
 
 namespace StoreOfBuild.Web.Controllers
 {
-    [Authorize]
+    [Authorize(Roles = "Admin, Operation")]
     public class SaleController : Controller
     {
         private readonly SaleFactory _saleFactory;

@@ -7,7 +7,7 @@ using System.Linq;
 
 namespace StoreOfBuild.Web.Controllers
 {
-    [Authorize]
+    [Authorize(Roles ="Admin, Manager")]
     public class CategoryController : Controller
     {
         private readonly CategoryStorer _categoryStorer;
